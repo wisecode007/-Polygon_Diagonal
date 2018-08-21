@@ -13,6 +13,7 @@ void main()
 
 	cout << "There is " << DiagonalNum << " diagonal in your " << n << " ribs polygon";
 	
-	int i;
-	cin >> i;
+	//For stoping the program in the CMD format
+		int i;
+		cin >> i;
 }
