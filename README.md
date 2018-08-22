@@ -11,5 +11,5 @@ We can see that to calculate the numbers of polygon we use this formula:
 
 # Why I did it?
 
-I was in an interview, where they asked me "How many Diagonals does Octagon have?"
+I was in an interview, where they asked me "How many Diagonals does Octagon have?"  
 I remembered the function and decided to build a little program that calculates how many diagonals any size of polygon have.
